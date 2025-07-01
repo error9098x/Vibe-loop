@@ -1,4 +1,4 @@
-// File: /Users/aditysaib/Documents/Vibe-loop/app/page.tsx
+// File: /Users/aviral/Desktop/CoinCraft/VIBELOOP/Vibe-loop/app/page.tsx
 import * as entry from '../../../app/page.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 

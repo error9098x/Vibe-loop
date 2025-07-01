@@ -33,3 +33,9 @@ logs
 .DS_Store
 Thumbs.db
 .env*.local
+node_modules
+venv
+.next/*
+.vercel
+.vite
+.vscode
